@@ -1,0 +1,15 @@
+D:\GB\Cs_Attestation\bin\Debug\net6.0\Cs_Attestation.exe
+D:\GB\Cs_Attestation\bin\Debug\net6.0\Cs_Attestation.deps.json
+D:\GB\Cs_Attestation\bin\Debug\net6.0\Cs_Attestation.runtimeconfig.json
+D:\GB\Cs_Attestation\bin\Debug\net6.0\Cs_Attestation.dll
+D:\GB\Cs_Attestation\bin\Debug\net6.0\Cs_Attestation.pdb
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.csproj.AssemblyReference.cache
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.AssemblyInfoInputs.cache
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.AssemblyInfo.cs
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.csproj.CoreCompileInputs.cache
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.dll
+D:\GB\Cs_Attestation\obj\Debug\net6.0\refint\Cs_Attestation.dll
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.pdb
+D:\GB\Cs_Attestation\obj\Debug\net6.0\Cs_Attestation.genruntimeconfig.cache
+D:\GB\Cs_Attestation\obj\Debug\net6.0\ref\Cs_Attestation.dll
