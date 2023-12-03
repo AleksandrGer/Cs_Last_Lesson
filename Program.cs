@@ -42,8 +42,11 @@
 
 // int Acker(int first, int second)
 // {
+//     while(m > 0 && n > 0)
+//     {
 //     if(n == 0) return m + 1;
 //     if(m == 0) return Acker(n - 1, 1);
 //     else return Acker(n - 1, Acker(n, m - 1));
+//     }
 // }
 // Console.WriteLine(Acker(m, n));
